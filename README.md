@@ -7,4 +7,4 @@
 Options:
   -h  --help           show this help message and exit
   -r  --range          Enter a range
- <pre>
+ </pre>
